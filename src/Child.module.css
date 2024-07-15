@@ -1,0 +1,9 @@
+/* li {
+    background-color: tan;
+    width: 200px;
+  } */
+/* module.css对标签样式不生效，必须是类选择器或者id */
+.item {
+  background-color: tan;
+    width: 200px;
+}
