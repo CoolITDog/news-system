@@ -3,6 +3,9 @@
 ### 项目搭建
 `npx create-react-app news-system`
 
+### 反向代理配置(开发环境下的)
+`http-proxy-middlwear`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
